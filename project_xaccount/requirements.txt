@@ -9,7 +9,7 @@ charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-n
 click @ file:///D:/bld/click_1692312014553/work
 colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
 cookiecutter @ file:///home/conda/feedstock_root/build_artifacts/cookiecutter_1708608886262/work
-Django==4.2.11
+Django==3.2.1
 gunicorn==22.0.0
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1713279365350/work
 Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1704966972576/work
@@ -23,6 +23,7 @@ PySocks @ file:///D:/bld/pysocks_1661604991356/work
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
 python-dotenv==1.0.1
 python-slugify @ file:///home/conda/feedstock_root/build_artifacts/python-slugify-split_1707425621764/work
+pytz==2024.1
 PyYAML @ file:///D:/bld/pyyaml_1695373562753/work
 requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
 rich @ file:///home/conda/feedstock_root/build_artifacts/rich-split_1709150387247/work/dist
@@ -33,4 +34,5 @@ types-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/types-
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1712329955671/work
 tzdata==2024.1
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1708239446578/work
+whitenoise==6.6.0
 win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
