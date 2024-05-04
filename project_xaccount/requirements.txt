@@ -1,38 +1,16 @@
-arrow @ file:///home/conda/feedstock_root/build_artifacts/arrow_1696128962909/work
-asgiref==3.8.1
-backports.zoneinfo==0.2.1
-binaryornot==0.4.4
-Brotli @ file:///D:/bld/brotli-split_1695989908365/work
-certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1707022139797/work/certifi
-chardet @ file:///D:/bld/chardet_1695468786478/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
-click @ file:///D:/bld/click_1692312014553/work
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
-cookiecutter @ file:///home/conda/feedstock_root/build_artifacts/cookiecutter_1708608886262/work
-Django==3.2.1
-gunicorn==22.0.0
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1713279365350/work
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1704966972576/work
-markdown-it-py @ file:///home/conda/feedstock_root/build_artifacts/markdown-it-py_1686175045316/work
-MarkupSafe @ file:///D:/bld/markupsafe_1706900107493/work
-mdurl @ file:///home/conda/feedstock_root/build_artifacts/mdurl_1704317613764/work
-packaging==24.0
-psycopg2==2.9.9
-Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1700607939962/work
-PySocks @ file:///D:/bld/pysocks_1661604991356/work
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+asgiref==3.7.2
+beautifulsoup4==4.12.2
+distlib==0.3.6
+Django==4.2.7
+django-bootstrap4==23.2
+django-crispy-forms==2.1
+filelock==3.12.0
+platformdirs==3.5.1
+psycopg2-binary==2.9.9
 python-dotenv==1.0.1
-python-slugify @ file:///home/conda/feedstock_root/build_artifacts/python-slugify-split_1707425621764/work
-pytz==2024.1
-PyYAML @ file:///D:/bld/pyyaml_1695373562753/work
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
-rich @ file:///home/conda/feedstock_root/build_artifacts/rich-split_1709150387247/work/dist
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-sqlparse==0.5.0
-text-unidecode @ file:///home/conda/feedstock_root/build_artifacts/text-unidecode_1694707102786/work
-types-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/types-python-dateutil_1710589910274/work
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1712329955671/work
-tzdata==2024.1
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1708239446578/work
+soupsieve==2.5
+sqlparse==0.4.4
+tzdata==2023.3
+vboxapi==1.0
+virtualenv==20.23.0
 whitenoise==6.6.0
-win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
