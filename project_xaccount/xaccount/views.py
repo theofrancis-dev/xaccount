@@ -13,4 +13,4 @@ class HomepageView(TemplateView):
     
     def say_bye(self):
         return 'Goodbye'
-        
+
